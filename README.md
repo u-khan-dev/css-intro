@@ -7,4 +7,4 @@ These files accompany my YouTube video, "HTML & CSS: Introduction to Cascading S
 
 The channel address is: http://www.youtube.com/@codestarrunner.
 
-And the link to the specific video associated with the files in this repository is: 
+And the link to the specific video associated with the files in this repository is: https://www.youtube.com/watch?v=n_2ZZ_WiOrg.
