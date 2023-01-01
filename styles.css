@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(255, 106, 0);
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+.accented-section {
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.regular-section {
+    padding: 20px;
+}
+
+#travel-image {
+    margin: 50px auto 50px auto;
+    display: block;
+}
